@@ -1,15 +1,11 @@
 {
   "version": "1.0.1",
-  "full_client": {
-    "name": "Nope2Full.rar",
-    "url": "NOPE2FULL_RAR_LINKI"
-  },
   "patches": [
     {
       "id": 1,
       "name": "patch_001.rar",
       "size": 1954210112,
-      "url": "PATCH_001_LINKI"
+      "url": "https://github.com/nopetr/nope2-launcher/releases/download/v1.0.1/patch_001.rar"
     }
   ]
 }
