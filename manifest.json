@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "patches": [
+    {
+      "id": 1,
+      "name": "patch_001.zip",
+      "url": "BURAYA_PATCH_LINKI_GELECEK"
+    }
+  ]
+}
